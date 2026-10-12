@@ -1,0 +1,13 @@
+{
+  "name": "tagly-bot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@grammyjs/runner": "^2.0.3",
+    "@solana/spl-token": "^0.4.15",
+    "@solana/web3.js": "^1.99.0",
+    "discord.js": "^14.27.0",
+    "express": "^4.21.0",
+    "grammy": "^1.30.0"
+  }
+}

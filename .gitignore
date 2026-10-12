@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env
+.env.local
+.secrets.json
+.tagly-issuer.json
+*.log
+package-lock.json
+.tagly-solana.json
